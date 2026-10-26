@@ -13,6 +13,7 @@ public class hello {
 		System.out.println("baocun1");
 		System.out.println("baocun2");
 		
+		System.out.println("baocun3");
 
 	}
 }
