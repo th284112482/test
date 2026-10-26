@@ -14,6 +14,7 @@ public class hello {
 		System.out.println("baocun2");
 		
 		System.out.println("baocun3");
+		System.out.println("baocun4");
 
 	}
 }
